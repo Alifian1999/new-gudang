@@ -1,0 +1,27 @@
+/* .list-content{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    margin-bottom: 30px;
+    padding: 5px;
+}
+
+.data-content{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.data{
+    width: 14%;
+    word-wrap: break-word;
+    text-align: start;
+    border-left: 1px solid black;
+    padding-left: 8px;
+} */
+[data-tooltip]{
+    position: relative;
+    cursor: pointer;
+}
+[data-tooltip]:hover::after{
+    cursor: pointer;
+}

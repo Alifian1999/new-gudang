@@ -1,0 +1,1702 @@
+[
+    {
+        "nama_produk":"ac adapter",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ac adapter 10.5 v",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":10,
+        "rak":null,
+        "total_produk":10,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ac adapter 12 v",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":8,
+        "rak":null,
+        "total_produk":8,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ac adapter 12.6 v",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":4,
+        "rak":null,
+        "total_produk":4,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ac adapter 13.5 v",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ac adapter 14 v",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ac adapter 15 v",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ac adapter 16 v",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ac adapter 19.5 v",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":4,
+        "rak":null,
+        "total_produk":4,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ac adapter 29.4 v",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ac adapter 9 v",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":9,
+        "rak":null,
+        "total_produk":9,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ac adapter hushin h5",
+        "kd_produk":3,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ac adapter jdsu 19 v",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"adapter e2000 to sc/upc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":5,
+        "rak":null,
+        "total_produk":5,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"adapter fc/upc to fc/upc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":270,
+        "rak":null,
+        "total_produk":270,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"adapter fc/upc to sc/upc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":8,
+        "rak":null,
+        "total_produk":8,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"adapter lc duplex",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":13,
+        "rak":null,
+        "total_produk":13,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"adapter lc-fc/upc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":5,
+        "rak":null,
+        "total_produk":5,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"adapter lc-sc/upc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":7,
+        "rak":null,
+        "total_produk":7,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"adapter st-sc/upc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":26,
+        "rak":null,
+        "total_produk":26,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"apl-2 mainboard SN:5600100022107",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"apm 58mc-vv20",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":10,
+        "rak":null,
+        "total_produk":10,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"bare fiber adapter tns-125f",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":6,
+        "rak":null,
+        "total_produk":6,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery fujikura btr 09",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery 200 h skycom",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery 7260",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":4,
+        "rak":null,
+        "total_produk":4,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery 7280",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery 9083",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery budhi lim",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":26,
+        "rak":null,
+        "total_produk":26,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery charger s-95bc fitel",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery dsam 6300",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery dsam un-3490",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery dvp 730",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery exfo axs 100",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery exfo ftb 200",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery exfo max tester",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery fiberfox",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery for ftb-1",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery fujikura adc 18",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery fujikura btr 08",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery g-link otdr",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery hushin h-5",
+        "kd_produk":3,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery hushin h-8",
+        "kd_produk":3,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery ilsintech",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery ilsintech kf-4",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":4,
+        "rak":null,
+        "total_produk":4,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery inno lbt-20",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery inno lbt-52",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery li202sx-7800",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":14,
+        "rak":null,
+        "total_produk":14,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery mu9090",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":4,
+        "rak":null,
+        "total_produk":4,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery mu9090 aq 1200",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery mu9090 aq 7275",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery otdr fot 100",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":5,
+        "rak":null,
+        "total_produk":5,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery pack hylb-1662",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery skycom 107",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery sumitomo type bu-11",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery tby08",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery viavi mts-8000",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"battery viavi smart otdr",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":4,
+        "rak":null,
+        "total_produk":4,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"big slitter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"blade replacement",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"camera skycom t208",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":10,
+        "rak":null,
+        "total_produk":10,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"cleaver fitel",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"connector soc-sc-apc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":5350,
+        "rak":null,
+        "total_produk":5350,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"dead end 25-50",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":460,
+        "rak":null,
+        "total_produk":460,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"dead end 50-70",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":37,
+        "rak":null,
+        "total_produk":37,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"dead end 70-95",
+        "kd_produk":null,
+        "kd_satuan":3,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"drop fail holder",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":19,
+        "rak":null,
+        "total_produk":19,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"dudukan sambungan optic",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":38,
+        "rak":null,
+        "total_produk":38,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"elektroda 125",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":7,
+        "rak":null,
+        "total_produk":7,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"elektroda fujikura 315",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"elektroda elct-20a fujikura 70s",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":12,
+        "rak":null,
+        "total_produk":12,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"elektroda furukawa",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":4,
+        "rak":null,
+        "total_produk":4,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"elektroda inno e27",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":21,
+        "rak":null,
+        "total_produk":21,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"elektroda sumitomo",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":10,
+        "rak":null,
+        "total_produk":10,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fast connector",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":600,
+        "rak":null,
+        "total_produk":600,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fat / odp 16 port",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":12,
+        "rak":null,
+        "total_produk":12,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fdp 4 core",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fiber cleaver clv-b1",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":15,
+        "rak":null,
+        "total_produk":15,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fiber cleaver z.5",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":41,
+        "rak":null,
+        "total_produk":41,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fiber identifier",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":5,
+        "rak":null,
+        "total_produk":5,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fiber polish machine hy-70",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":5,
+        "rak":null,
+        "total_produk":5,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fiberfox mini 22a",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fiberscoop polish",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fusion splicer h5",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fusion splicer h8",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fusion splicer sumitomo z2c",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"fusion splicer x3",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":5,
+        "rak":null,
+        "total_produk":5,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"helm safety",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":5,
+        "rak":null,
+        "total_produk":5,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"hybrid adapter fc/upc to sc/upc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":64,
+        "rak":null,
+        "total_produk":64,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"kabel optik standar",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"kabel power",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":18,
+        "rak":null,
+        "total_produk":18,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"laser source, sc/upc",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":5,
+        "rak":null,
+        "total_produk":5,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"lcd fujikura",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"lcd sumitomo z1c",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"led replacement",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"metal adapter zinc aloy sc/upc to sc/upc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3900,
+        "rak":null,
+        "total_produk":3900,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"mini otdr tribber tb-620",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"mini slitter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":22,
+        "rak":null,
+        "total_produk":22,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"odf 6 core",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":8,
+        "rak":null,
+        "total_produk":8,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"ols",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"one click cleaner tribrer",
+        "kd_produk":4,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":20,
+        "rak":null,
+        "total_produk":20,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"opm",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"opm tribrer apm58nt-v20",
+        "kd_produk":4,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":21,
+        "rak":null,
+        "total_produk":21,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"optical fiber identifier afi-430 tribrer",
+        "kd_produk":4,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"optical fiber instrument afd-600a",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"optical fiber instrument tb-620-scu tribrer",
+        "kd_produk":4,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":5,
+        "rak":null,
+        "total_produk":5,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"optical laser source hls-35 hypercore",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":6,
+        "rak":null,
+        "total_produk":6,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"optical multimeter hou40t-s355",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"optical power meter apm 60 t tribrer",
+        "kd_produk":4,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"optical variable attenuator sc/upc",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"otdr apl-2plus + aor502 a-scu+ola tribrer",
+        "kd_produk":4,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"otdr fot-100b-scu",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"otdr fot-300-ps2-sca-sca",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"otdr fot-300-ps2-scu-sca",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"otdr tb-700-scu-tribrer",
+        "kd_produk":4,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"otdr tribrer apl-2 plus+aor502a-m-scu-scu",
+        "kd_produk":4,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"otdr tribrer tb-620",
+        "kd_produk":4,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core duplex fc-lc 5 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core duplex lc-lc om3 3 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core duplex mtrj-sc 3 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core fc/apc to fc/upc 1 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":4,
+        "rak":null,
+        "total_produk":4,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core lc-fc/upc 3 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core lc/upc to lc/upc 10 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":10,
+        "rak":null,
+        "total_produk":10,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core lc/upc to lc/upc 3 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core lc/upc to sc/upc 1 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":33,
+        "rak":null,
+        "total_produk":33,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core lc/upc to sc/upc 3 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core lc/upc to sc/upc 50 cm",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":7,
+        "rak":null,
+        "total_produk":7,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core lc/upc to sc/upc 7 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":9,
+        "rak":null,
+        "total_produk":9,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core sc/apc to fc/upc 3 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core sc/apc to sc/upc 3 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core sc/upc to sc/upc 3 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":5,
+        "rak":null,
+        "total_produk":5,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core sc/upc to sc/upc 5 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":8,
+        "rak":null,
+        "total_produk":8,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core st-sc/upc 3 meter",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"patch core duplex lc/upc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"pigtail fc/upc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":14,
+        "rak":null,
+        "total_produk":14,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"pigtail lc/upc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":32,
+        "rak":null,
+        "total_produk":32,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"pigtail sc-apc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":80,
+        "rak":null,
+        "total_produk":80,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"pigtail sc-upc",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":276,
+        "rak":null,
+        "total_produk":276,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"pon optical power meter aof 500-scu tribrer",
+        "kd_produk":4,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":10,
+        "rak":null,
+        "total_produk":10,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"pon optical power meter hpn-90-t-u",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"pon optical power meter hpn 90 t-u hypercore",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"power bank",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":5,
+        "rak":null,
+        "total_produk":5,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"printer thermal yy58-c",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":4,
+        "rak":null,
+        "total_produk":4,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"roset zte 4 core",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":8,
+        "rak":null,
+        "total_produk":8,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"safety belt",
+        "kd_produk":null,
+        "kd_satuan":3,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"sambungan optic(bulat)",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":24,
+        "rak":null,
+        "total_produk":24,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"setting v groove dan calibration",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"sinar uv",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":10,
+        "rak":null,
+        "total_produk":10,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"soc holder x3",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"splicer 31 7h",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":4,
+        "rak":null,
+        "total_produk":4,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"splicer andcorp 308px",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"splicer andcorp c-330h",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"splicer dvp-740",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"splicer hushin h5",
+        "kd_produk":3,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"splicer hushin h8",
+        "kd_produk":3,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":0,
+        "rak":null,
+        "total_produk":0,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"splitter 1:4",
+        "kd_produk":null,
+        "kd_satuan":4,
+        "price":null,
+        "unassigned":6,
+        "rak":null,
+        "total_produk":6,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"splitter 1:6",
+        "kd_produk":null,
+        "kd_satuan":4,
+        "price":null,
+        "unassigned":6,
+        "rak":null,
+        "total_produk":6,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"splitter modular sc/apc 1x4",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":6,
+        "rak":null,
+        "total_produk":6,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"splitter modular sc/apc 1x8",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":3,
+        "rak":null,
+        "total_produk":3,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"steelband stainless",
+        "kd_produk":null,
+        "kd_satuan":5,
+        "price":null,
+        "unassigned":16,
+        "rak":null,
+        "total_produk":16,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"stop link",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":1059,
+        "rak":null,
+        "total_produk":1059,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"stripper fast connector",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":70,
+        "rak":null,
+        "total_produk":70,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"stripper kabel",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"stripper logo tiga nova",
+        "kd_produk":1,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":26,
+        "rak":null,
+        "total_produk":26,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"suspension corong",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":277,
+        "rak":null,
+        "total_produk":277,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"suspension gantung",
+        "kd_produk":null,
+        "kd_satuan":3,
+        "price":null,
+        "unassigned":303,
+        "rak":null,
+        "total_produk":303,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"tangga fiber glass fel 2 x 12",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":1,
+        "rak":null,
+        "total_produk":1,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"vfl tribrer bml-209",
+        "kd_produk":4,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":27,
+        "rak":null,
+        "total_produk":27,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"visual fault lasersource bml-2ili",
+        "kd_produk":null,
+        "kd_satuan":1,
+        "price":null,
+        "unassigned":9,
+        "rak":null,
+        "total_produk":9,
+        "poto_produk":null
+    },
+    {
+        "nama_produk":"whole laser part of fot-100-b",
+        "kd_produk":null,
+        "kd_satuan":2,
+        "price":null,
+        "unassigned":2,
+        "rak":null,
+        "total_produk":2,
+        "poto_produk":null
+    }
+]

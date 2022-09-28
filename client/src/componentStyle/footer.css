@@ -1,0 +1,8 @@
+.footer-container{
+    margin-top: 140px;
+}
+
+.footer-text{
+    display: flex;
+    justify-content: space-between;
+}

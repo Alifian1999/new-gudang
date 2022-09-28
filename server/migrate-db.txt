@@ -1,0 +1,37 @@
+Pertama bikin db di mysql
+
+kedua hapus folder config,migrations,dengan models
+
+ketiga dibawah ini berurutan
+npx sequelize init
+npx sequelize-cli model:generate --name user --attributes email:string,password:string,username:string
+npx sequelize-cli model:generate --name kode_produk --attributes kd_produk:string
+npx sequelize-cli model:generate --name kode_satuan --attributes kd_satuan:string
+npx sequelize-cli model:generate --name produk --attributes nama_produk:string,kd_produk:integer,kd_satuan:integer,price:integer,total_produk:integer,unassigned:integer,rak:integer,poto_produk:string
+npx sequelize db:migrate
+
+keempat migrate data ingat 
+pertama buka file import-data.js terus komen await produk.bulkCreate(produks) terus uncomment 
+await kode_produk.bulkCreate(kd_produk)
+        await kode_satuan.bulkCreate(kd_satuan)
+        baru node dev-data/import-data.js --import
+terus kebalikannya comment
+await kode_produk.bulkCreate(kd_produk)
+        await kode_satuan.bulkCreate(kd_satuan)
+        terus uncomment await produk.bulkCreate(produks)
+        baru node dev-data/import-data.js --import
+
+kelima copy folder rawQuery tadi letakkin di dalam folder models
+keenam copy file database.js tapi ingat ganti
+const db = new Sequelize("project","root","nikon1337", {
+    host: "127.0.0.1",
+    dialect: "mysql",
+    port: "3306",
+    logging: false
+})
+
+dengan nama database/schema kedua usernam biasanya root ketiga itu password
+
+terus ketujuh di cmd di folder server jalankan server dengna ketik di cmd npm start
+
+kedelapan buka cmd di folder client terus npm i, setelah selesai install terus npm start di folder client

@@ -1,0 +1,35 @@
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    height: 100%;
+    background-color:#E0C097;
+    padding: 0 10px;
+    width: 100%;
+    margin: 0;
+}
+
+.navbar-container-image{
+    display: flex;
+    width: 20%;
+}
+
+.container-logo-nova{
+    margin: auto;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.logo-nova{
+    width: 50%;
+}
+
+.navbar-right p{
+    margin: 0;
+}
+
+  
+  .coba{
+    font-family: monospace;
+  }

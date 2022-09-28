@@ -1,0 +1,49 @@
+CREATE TABLE "customers" (
+  "id" int NOT NULL AUTO_INCREMENT,
+  "jumlah" int DEFAULT NULL,
+  "nama_customer" varchar(255) DEFAULT NULL,
+  "id_produks" int DEFAULT NULL,
+  "createdAt" datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  "updatedAt" datetime DEFAULT NULL,
+  PRIMARY KEY ("id")
+)
+
+CREATE TABLE "dtl_barangs" (
+  "id" int NOT NULL AUTO_INCREMENT,
+  "jumlah" int DEFAULT NULL,
+  "barang_masuk" tinyint(1) DEFAULT NULL,
+  "barang_keluar" tinyint(1) DEFAULT NULL,
+  "images" varchar(255) DEFAULT NULL,
+  "createdAt" datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  "updatedAt" datetime DEFAULT NULL,
+  PRIMARY KEY ("id")
+)
+
+CREATE TABLE "repair_barangs" (
+  "id" int NOT NULL AUTO_INCREMENT,
+  "jumlah" int DEFAULT NULL,
+  "alasan" varchar(255) DEFAULT NULL,
+  "id_produks" int DEFAULT NULL,
+  "createdAt" datetime DEFAULT CURRENT_TIMESTAMP,
+  "updatedAt" datetime DEFAULT NULL,
+  PRIMARY KEY ("id")
+)
+
+CREATE TABLE "return_barangs" (
+  "id" int NOT NULL AUTO_INCREMENT,
+  "jumlah" int DEFAULT NULL,
+  "alasan" varchar(255) DEFAULT NULL,
+  "id_produks" int DEFAULT NULL,
+  "createdAt" datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  "updatedAt" datetime DEFAULT NULL,
+  PRIMARY KEY ("id")
+)
+
+CREATE TABLE "tmpt_barangs" (
+  "id" int NOT NULL AUTO_INCREMENT,
+  "lokasi" varchar(255) DEFAULT NULL,
+  "id_produks" int DEFAULT NULL,
+  "createdAt" datetime DEFAULT CURRENT_TIMESTAMP,
+  "updatedAt" datetime DEFAULT NULL,
+  PRIMARY KEY ("id")
+)

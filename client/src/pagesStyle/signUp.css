@@ -1,0 +1,9 @@
+.container-signUp{
+    width: 30%;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-top: 130px;
+    text-align: start;
+}
